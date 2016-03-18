@@ -18,6 +18,6 @@ OS X Script for pushing local files to Purdue CS servers
   `alias watcher="fswatch -0 . | xargs -0 -n1 /Users/jay/syncCS.sh"`
   
 ## Usage
-1. Navigate to your local project folder (e.g. `/Users/jay/dev/CS/lab3-src').
+1. Navigate to your local project folder (e.g. `/Users/jay/dev/CS/lab3-src`).
 2. Execute alias `watcher` inside that project folder.
 3. That's it. The script will rsync your files when any change in the directory is detected.

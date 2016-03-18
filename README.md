@@ -21,3 +21,9 @@ OS X Script for pushing local files to Purdue CS servers
 1. Navigate to your local project folder (e.g. `/Users/jay/dev/CS/lab3-src`).
 2. Execute alias `watcher` inside that project folder.
 3. That's it. The script will rsync your files when any change in the directory is detected.
+
+## Demo
+![Demo](http://i.imgur.com/ziPYM3Q.gif)
+
+## License
+WTFPL - Do whatever you want with this. It took me 5 minutes to make while I was procrastinating on my shell project. 
